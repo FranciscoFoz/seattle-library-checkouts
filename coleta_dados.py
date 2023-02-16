@@ -17,7 +17,7 @@ limite = 0
 
 while limite < 42033208:
     # Criar a URL com o limite
-    url = f'https://data.seattle.gov/resource/tmmm-ytt6.json?$limit=1000&$offset={limite}'
+    url = f'https://data.seattle.gov/resource/tmmm-ytt6.json?$limit=50000&$offset={limite}'
     # Fazer a requisição
     response = requests.get(url)
     dados = response.json()
@@ -31,4 +31,4 @@ while limite < 42033208:
             arquivo.write(';;'.join(str(valor) for valor in linha.values()) + '\n')
 
     # Atualizar o limite
-    limite += 1000
+    limite += 50000
