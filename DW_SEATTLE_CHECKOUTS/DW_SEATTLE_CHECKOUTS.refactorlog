@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="696caffd-045f-46af-a23c-450391ab6f43" ChangeDateTime="02/25/2023 17:22:24">
+    <Property Name="ElementName" Value="[dbo].[Dim_MATERIAL_TYPE].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Dim_MATERIAL_TYPE]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ID_MA" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="5f24bab5-af78-4b82-a74a-d203e1497324" ChangeDateTime="02/25/2023 17:22:37">
+    <Property Name="ElementName" Value="[dbo].[Dim_MATERIAL_TYPE].[ID_MA]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Dim_MATERIAL_TYPE]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ID_MaterialType" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="64369f14-f17d-42b2-9fb7-84cc6e51111d" ChangeDateTime="02/25/2023 17:23:26">
+    <Property Name="ElementName" Value="[dbo].[Dim_MATERIAL_TYPE].[Material_Type]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Dim_MATERIAL_TYPE]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="MaterialType" />
+  </Operation>
+</Operations>

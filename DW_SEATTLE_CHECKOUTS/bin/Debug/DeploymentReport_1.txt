@@ -1,0 +1,22 @@
+﻿** Destaques
+     Tabelas que serão recriadas com os dados migrados
+       Nenhum
+     Índices clusterizados que serão removidos
+       Nenhum
+     Índices clusterizados que serão criados
+       Nenhum
+     Possíveis problemas de dados
+       Nenhum
+
+** Ações do usuário
+     Criar
+       [dbo].[Dim_Checkouts_Month] (Tabela)
+       [dbo].[Dim_Creator] (Tabela)
+       [dbo].[Dim_Subjects] (Tabela)
+       [dbo].[F_Material] (Tabela)
+       [dbo].[FK_Dim_Checkouts_Month_F_Material] (Chave Estrangeira)
+       [dbo].[FK_Dim_Creator_Month_F_Material] (Chave Estrangeira)
+       [dbo].[FK_Dim_Subjects_Month_F_Material] (Chave Estrangeira)
+       [dbo].[FK_Dim_Material_Type_Month_F_Material] (Chave Estrangeira)
+
+** Ações de suporte

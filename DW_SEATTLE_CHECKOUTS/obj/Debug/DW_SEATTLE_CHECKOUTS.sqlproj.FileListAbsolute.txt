@@ -1,0 +1,6 @@
+C:\Users\franc\OneDrive\Documents\GitHub\seattle-checkouts\DW_SEATTLE_CHECKOUTS\bin\Debug\DW_SEATTLE_CHECKOUTS.dacpac
+C:\Users\franc\OneDrive\Documents\GitHub\seattle-checkouts\DW_SEATTLE_CHECKOUTS\bin\Debug\DW_SEATTLE_CHECKOUTS.dll
+C:\Users\franc\OneDrive\Documents\GitHub\seattle-checkouts\DW_SEATTLE_CHECKOUTS\bin\Debug\DW_SEATTLE_CHECKOUTS.pdb
+C:\Users\franc\OneDrive\Documents\GitHub\seattle-checkouts\DW_SEATTLE_CHECKOUTS\obj\Debug\DW_SEATTLE_CHECKOUTS.sqlproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Documents\GitHub\seattle-checkouts\DW_SEATTLE_CHECKOUTS\obj\Debug\DW_SEATTLE_CHECKOUTS.dll
+C:\Users\franc\OneDrive\Documents\GitHub\seattle-checkouts\DW_SEATTLE_CHECKOUTS\obj\Debug\DW_SEATTLE_CHECKOUTS.pdb
